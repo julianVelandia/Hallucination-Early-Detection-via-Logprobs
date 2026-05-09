@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4o-mini",
+  "output": "data/results.json",
+  "default_dataset": "bullshit-v2",
+  "turns": 1,
+  "temperature": 0.0,
+  "top_logprobs": 5
+}
