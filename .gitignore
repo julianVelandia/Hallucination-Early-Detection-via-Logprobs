@@ -43,6 +43,10 @@ cover/
 *.log
 pip-log.txt
 pip-delete-this-directory.txt
+FUTURE_WORKS.md
+MEJORAS_Y_CRITICAS.md
+PLAN_DE_MEJORAS.md
+paper.pdf
 db.sqlite3
 db.sqlite3-journal
 local_settings.py
